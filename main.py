@@ -144,12 +144,10 @@ plt.title("4 node motifs for Random 1 graphs")
 plt.savefig('4MotifsRandom1.png')
 plt.show()
 
-
 plt.plot(columns_3, z_score_2_motif3)
 plt.title("3 node motifs for Random 2 graphs")
 plt.savefig('3MotifsRandom2.png')
 plt.show()
-
 
 plt.plot(columns_4, z_score_2_motif4)
 plt.title("4 node motifs for Random 2 graphs")
